@@ -74,7 +74,6 @@ An interactive **Power BI dashboard** was created to visually present:
 - Revenue trends  
 - Product performance  
 - Subscription behavior  
-- Shipping and discount insights  
 
 ---
 
